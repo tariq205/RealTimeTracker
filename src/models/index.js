@@ -1,0 +1,1 @@
+// This file defines data models and schemas. It exports classes or functions that interact with the database, such as User or Product models, depending on the application's needs.
